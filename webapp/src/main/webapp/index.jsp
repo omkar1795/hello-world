@@ -29,10 +29,10 @@
 <div class="art-nav-inner">
 	<ul class="art-hmenu">
 		<li>
-			<a href="./new-page.html" class="active"><span class="l"></span><span class="r"></span><span class="t">New Page</span></a>
+			<a href="./new-page.html" class="active"><span class="l"></span><span class="r"></span><span class="t">Features</span></a>
 		</li>	
 		<li>
-			<a href="./new-page-2.html"><span class="l"></span><span class="r"></span><span class="t">New Page 2</span></a>
+			<a href="./new-page-2.html"><span class="l"></span><span class="r"></span><span class="t">About us</span></a>
 		</li>	
 	</ul>
 </div>
@@ -49,8 +49,8 @@
     <div class="art-header-wrapper">
     <div class="art-header-inner">
         <div class="art-logo">
-                 <h1 class="art-logo-name"><a href="./index.html">Enter Site Title</a></h1>
-                         <h2 class="art-logo-text">Enter Site Slogan</h2>
+                 <h1 class="art-logo-name"><a href="./index.html">Digital marketing terms</a></h1>
+                         <h2 class="art-logo-text">Digital is new Normal!</h2>
                 </div>
     </div>
     </div>
