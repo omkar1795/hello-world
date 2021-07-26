@@ -5,20 +5,21 @@
      <body>
 	     <h1>Hello World</h1>
 	     
-<iframe width="560"
-        height="315"
+<iframe width="320"
+        height="200"
         src="https://www.youtube.com/embed/M_vEI64hbso"
         frameborder="0"
         gesture="media"
         allow="encrypted-media"
         allowfullscreen>
 </iframe>
+	     <br>
 	  <a
   href="http://www.mikedane.com/databases/sql/erd-template.png"
   target="_blank">
   SQL Diagram
 </a>
-		  <br>
+	     <br>
 <img src="https://www.mikedane.com/web-development/html/introduction-to-html.png" 
      width="200"
      height="100"/>
